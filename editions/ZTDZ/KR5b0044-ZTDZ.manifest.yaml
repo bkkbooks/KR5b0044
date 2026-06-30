@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5b0044/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5b0044/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上洞玄靈寶天尊說養蠶營種經
+  date: '2015-08-28 23:47:56.833555'
+  source:
+    repository: kanripo
+    path: KR5b0044
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0044_000-ZTDZ.yaml, hash: 'sha256:4d081db199abafab4a6c1cc18432ba281977ef5661cdf05bf1683b4fdaee605a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0044_000-ZTDZ.markers.yaml, hash: 'sha256:eb4bc531909d8819e1b41e99a59dbdf285947aee570a1c5c0430e47edf662277'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0044_SJB_000-060234a
+    span:
+    - body
+    - 0
+    - 2580
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:ed495129be99d3b36f4c12380338819c748761cb75b8440cd770d516141d48a4
